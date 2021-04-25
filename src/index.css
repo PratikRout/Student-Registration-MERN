@@ -1,0 +1,28 @@
+body {
+    background-color: rgba(255,205,0,1);
+  }
+
+  nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    min-height: 10vh;
+    background: cyan;
+    color: black;
+  }
+  
+  .nav-links{
+    width: 40%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+  }
+  .button{
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+  .success{
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
